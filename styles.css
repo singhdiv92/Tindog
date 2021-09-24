@@ -156,10 +156,10 @@ p{
 
 /* Media Queries */
 
- @media (max-width:996px)
+ @media (max-width:1071px)
  {
-     #title{
-         text-align: center;
+     #title .container-fluid{
+        text-align: center;
      }
 
      .title-image{
